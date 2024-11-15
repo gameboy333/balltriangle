@@ -15,6 +15,6 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
-or, just watch the demo [here](), it basically shows everything in the project
+or, just watch the demo [here](https://raw.githubusercontent.com/gameboy333/balltriangle/refs/heads/main/README.md), it basically shows everything in the project
 ## credits
 @PSYclownYT - made balls able to collide with other balls, and added overlap handling
